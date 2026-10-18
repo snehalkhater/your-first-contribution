@@ -19,3 +19,13 @@ I'm Snehal Khater, a passionate web developer who loves learning new technologie
 - 📍 Location: Karjat, Maharashtra, India
 
 ---
+
+## 🎯 My Goals
+
+- 🚀 Improve my MERN Stack skills
+- 💡 Build real-world projects
+- 🤝 Collaborate with other developers
+- 📚 Learn something new every day
+- 💼 Start my career as a developer
+
+---
