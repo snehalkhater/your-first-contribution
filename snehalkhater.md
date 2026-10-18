@@ -29,3 +29,8 @@ I'm Snehal Khater, a passionate web developer who loves learning new technologie
 - 💼 Start my career as a developer
 
 ---
+### 💖 My Developer Motto
+
+> "Dream it. Code it. Build it. Keep growing! 🚀"
+
+⭐ Thanks for visiting my profile!
